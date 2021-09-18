@@ -14,6 +14,7 @@ This program uses opencv and aruco to detect `4X4_50` markers. Once it detects a
 
 1. Clone the project.
 2. `cd Aruco-Tag-Tracking-Test`
+   1. If pipenv is not installed, run `pip install pipenv`
 3. `pipenv install` - installs dependencies
 4. `pipenv shell` - activates the environment
 5. `python detect_markers` - run the script
