@@ -18,3 +18,6 @@ This program uses opencv and aruco to detect `4X4_50` markers. Once it detects a
 3. `pipenv install` - installs dependencies
 4. `pipenv shell` - activates the environment
 5. `python detect_markers` - run the script
+
+#### Questions
+contact: david.niederweis@gmail.com
